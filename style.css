@@ -1,0 +1,22 @@
+.header {
+  margin-left: 50px;
+  margin-right: 40px;
+}
+
+.nav-text {
+  color: #348f40;
+}
+.nav-text:hover {
+  border-radius: 25px;
+  background-color: #348f40;
+  color: white;
+}
+
+.servicos {
+  padding: 30px;
+  background-color: #348f40;
+}
+footer {
+  background: #348f40;
+  color: white;
+}
